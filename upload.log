@@ -1,0 +1,7 @@
+2024-07-02 11:05:03,476 - DEBUG - Verificando existencia del archivo: path/to/source/file.las
+2024-07-02 11:05:03,477 - ERROR - Error durante la copia del archivo: El archivo de origen no existe: path/to/source/file.las
+2024-07-02 11:14:48,134 - DEBUG - Verificando existencia del archivo: tempDir/PEC-813_ACRT_ICT_GR_SPB-SDLT_DSNT-MRILD-ARGENT3_LAS.las
+2024-07-02 11:14:48,136 - DEBUG - Verificando permisos de lectura del archivo: tempDir/PEC-813_ACRT_ICT_GR_SPB-SDLT_DSNT-MRILD-ARGENT3_LAS.las
+2024-07-02 11:14:48,137 - DEBUG - Creando carpeta de destino si no existe: Y:/Workover/STAFF/Wireline/Perfil_verificado
+2024-07-02 11:14:48,140 - DEBUG - Copiando archivo a: Y:/Workover/STAFF/Wireline/Perfil_verificado\PEC-813_ACRT_ICT_GR_SPB-SDLT_DSNT-MRILD-ARGENT3_LAS.las
+2024-07-02 11:14:51,595 - DEBUG - Archivo copiado exitosamente a: Y:/Workover/STAFF/Wireline/Perfil_verificado\PEC-813_ACRT_ICT_GR_SPB-SDLT_DSNT-MRILD-ARGENT3_LAS.las
