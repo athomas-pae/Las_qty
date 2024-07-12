@@ -1,0 +1,5 @@
+lasio
+welly
+pandas
+streamlit
+beautifulsoup4
